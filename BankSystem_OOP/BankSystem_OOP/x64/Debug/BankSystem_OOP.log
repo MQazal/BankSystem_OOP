@@ -1,0 +1,211 @@
+﻿  BankSystem_OOP.cpp
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsString.h(292,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsString.h(312,22): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsString.h(430,37): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsString.h(473,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsString.h(502,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsString.h(602,15): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsString.h(606,21): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsDate.h(982,7): warning C4240: nonstandard extension used: access to 'clsDate::enDateCompare' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+      E:\Programming_Path\Course(24,7):
+      see declaration of 'clsDate::enDateCompare'
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(21,17): warning C4091: 'static ': ignored on left of 'clsUtil::enCharType' when no variable is declared
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(58,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(161,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(394,36): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(429,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(438,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(447,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(639,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(1013,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(1246,37): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(1264,16): warning C4244: 'return': conversion from 'short' to 'char', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsUser.h(181,16): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+      E:\Programming_Path\Course(24,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsUser.h(181,16): warning C4091: 'static ': ignored on left of 'clsUser::stLoginRegisterRecord' when no variable is declared
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsBankClient.h(186,16): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+      E:\Programming_Path\Course(25,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsBankClient.h(186,16): warning C4091: 'static ': ignored on left of 'clsBankClient::stTransferLogRecord' when no variable is declared
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsBankClient.h(254,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsBankClient.h(326,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsBankClient.h(486,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsTotalBalancesScreen.h(45,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsTransferScreen.h(32,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsTransferScreen.h(33,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsTransferScreen.h(33,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsTransferScreen.h(36,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsFindUserScreen.h(58,20): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/BankSystem_OOP.cpp')
+  
+  clsLoginScreen.cpp
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsString.h(292,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsString.h(312,22): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsString.h(430,37): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsString.h(473,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsString.h(502,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsString.h(602,15): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsString.h(606,21): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsDate.h(982,7): warning C4240: nonstandard extension used: access to 'clsDate::enDateCompare' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+      E:\Programming_Path\Course(24,7):
+      see declaration of 'clsDate::enDateCompare'
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(21,17): warning C4091: 'static ': ignored on left of 'clsUtil::enCharType' when no variable is declared
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(58,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(161,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(394,36): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(429,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(438,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(447,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(639,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(1013,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(1246,37): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#10\OOP_Notes\OOP_Notes\clsUtil.h(1264,16): warning C4244: 'return': conversion from 'short' to 'char', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsUser.h(181,16): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+      E:\Programming_Path\Course(24,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsUser.h(181,16): warning C4091: 'static ': ignored on left of 'clsUser::stLoginRegisterRecord' when no variable is declared
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsBankClient.h(186,16): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+      E:\Programming_Path\Course(25,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsBankClient.h(186,16): warning C4091: 'static ': ignored on left of 'clsBankClient::stTransferLogRecord' when no variable is declared
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsBankClient.h(254,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsBankClient.h(326,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsBankClient.h(486,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsTotalBalancesScreen.h(45,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsTransferScreen.h(32,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsTransferScreen.h(33,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsTransferScreen.h(33,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsTransferScreen.h(36,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsFindUserScreen.h(58,20): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+  (compiling source file '../../../Course#11/Project3_Bank%20System/BankSystem_OOP/clsLoginScreen.cpp')
+  
+  Generating Code...
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsBankClient.h(282,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsBankClient.h(499,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\clsUser.h(271,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  BankSystem_OOP.vcxproj -> E:\Programming_Path\Course#11\Project3_Bank System\BankSystem_OOP\x64\Debug\BankSystem_OOP.exe
