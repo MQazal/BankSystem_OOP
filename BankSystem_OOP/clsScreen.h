@@ -17,8 +17,15 @@ protected:
             cout << "\n\t\t\t\t\t  " << SubTitle;
         }
         cout << "\n\t\t\t\t\t______________________________________\n\n";
-        cout << "\n\t\t\t\t\t\t\tUsername: " + CurrentUser.getUsername();
-        cout << "\n\t\t\t\t\t\t\tDate: " + clsDate::DateToString(clsDate());
+        if (CurrentUser.getPermissions() == -1)
+        {
+            cout << "\n\t\t\t\t\t\t\tUser: Admin";
+        }
+        else
+        {
+            cout << "\n\t\t\t\t\t\t\tUser: " + CurrentUser.getUsername();
+        }
+        cout << "\n\n\t\t\t\t\t\t\tDate: " + clsDate::DateToString(clsDate());
     }
 
     static void _BankSystemLogo()

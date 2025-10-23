@@ -12,6 +12,7 @@
 #include "clsManageUsersScreen.h"
 #include "clsLoginScreen.h"
 #include "clsLoginRegisterScreen.h"
+#include "clsCurrencyExchangeScreen.h"
 using namespace std;
 
 
@@ -29,14 +30,15 @@ private:
 		AddNewClient = 1, FindClient = 2,
 		UpdateClient = 3, DeleteClient = 4,
 		ListSystemClients = 5, TransactionsMenu = 6,
-		ManageUsersMenu = 7, LoginRegister = 8, Exit = 9
+		ManageUsersMenu = 7, LoginRegister = 8,
+		CurrencyExchange = 9, Exit = 10
 	};
 
 	static short _ReadMainMenuOption()
 	{
 		short ChoiceNumber = 0;
-		cout << setw(37) << left << "" << "Choose what do you want to do? [1 to 9]? ";
-		ChoiceNumber = clsInputValidate::ReadIntegerNumberInRange(1, 9);
+		cout << setw(37) << left << "" << "Choose what do you want to do? [1 to 10]? ";
+		ChoiceNumber = clsInputValidate::ReadIntegerNumberInRange(1, 10);
 		return ChoiceNumber;
 	}
 
@@ -77,8 +79,12 @@ private:
 
 	static void _ShowLoginRegisterScreen()
 	{
-		//cout << "\nLogin File Info will be here...\n";
 		clsLoginRegisterScreen::ShowLoginInfoList();
+	}
+
+	static void _ShowCurrencyExchangeScreen()
+	{
+		clsCurrencyExchangeScreen::ShowCurrencyExchangeMenu();
 	}
 
 	static void _GoBackToMainMenu()
@@ -137,6 +143,11 @@ private:
 			_ShowLoginRegisterScreen();
 			_GoBackToMainMenu();
 			break;
+		case _enMainMenuOptions::CurrencyExchange:
+			_ClearScreen();
+			_ShowCurrencyExchangeScreen();
+			_GoBackToMainMenu();
+			break;
 		case _enMainMenuOptions::Exit:
 			_ClearScreen();
 			_Logout(); // after Logout, clsMainScreen::ShowMainMenu will be killed in call stack and call stack
@@ -171,8 +182,9 @@ public:
 		cout << setw(37) << left << "" << "\t[6] Go to Transactions Menu.\n";
 		cout << setw(37) << left << "" << "\t[7] Go to Manage Users Menu.\n";
 		cout << setw(37) << left << "" << "\t[8] Login Register List.\n";
+		cout << setw(37) << left << "" << "\t[9] Currency Exchange.\n";
 		cout << "\033[91m";
-		cout << setw(37) << left << "" << "\t[9] Logout.\n";
+		cout << setw(37) << left << "" << "\t[10] Logout.\n";
 		cout << "\033[96m";
 		cout << setw(37) << left << "" << "===========================================\n";
 		cout << "\033[0m";

@@ -17,6 +17,9 @@ using namespace std;
 
 // The method that is responsible about saving password to database you will use encryption concept with it.
 
+// if there is a data from outside class in data line -> use structure to
+// group data variables, download data from DB in structure vector, print each record on monitor
+
 
 class clsUser : public clsPerson
 {
@@ -76,14 +79,14 @@ private:
 		return PermissionsValue;
 	}
 
-	string _ConvertObjectToDataLine(clsUser& User, string delimiter = "#//#")
+	string _ConvertObjectToDataLine(clsUser& User, string Separator = "#//#")
 	{
-		string Line = User.FirstName + delimiter;
-		Line += User.LastName + delimiter;
-		Line += User.Email + delimiter;
-		Line += User.PhoneNumber + delimiter;
-		Line += User._Username + delimiter;
-		Line += clsUtil::EncryptText(User.Password, 10);
+		string Line = User.FirstName + Separator;
+		Line += User.LastName + Separator;
+		Line += User.Email + Separator;
+		Line += User.PhoneNumber + Separator;
+		Line += User._Username + Separator;
+		Line += clsUtil::EncryptText(User.Password, 10) + Separator;
 		Line += to_string(User._Permissions);
 		return Line;
 	}
